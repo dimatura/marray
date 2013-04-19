@@ -78,7 +78,7 @@
 #ifndef MARRAY_HXX
 #define MARRAY_HXX
 
-#include <stddef.h>
+#include <cstddef>
 #include <cassert>
 #include <stdexcept> // runtime_error
 #include <limits>
